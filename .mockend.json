@@ -1,8 +1,9 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "request_id": "string",
+    "inference_name": "string",
+    "status": "string",
+    "start_date": "date",
+    "last_update_date": "date"
   }
 }
